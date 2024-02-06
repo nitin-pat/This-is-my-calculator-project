@@ -1,2 +1,2 @@
-# This-is-my-first-project
+# This-is-my-Calculator-project
 Author - Nitin Patel
